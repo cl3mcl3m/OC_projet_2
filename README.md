@@ -1,7 +1,7 @@
 # OC_projet_2
 
 ## Prérequis
-Python doit être installé, on se trouvela dernière version à cette adresse :
+Python doit être installé, on trouvera la dernière version à cette adresse :
 https://www.python.org/downloads/
 
 ## Installation

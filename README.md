@@ -29,7 +29,7 @@ pip install -r requirements.txt
 * Exécuter un script :
 
 ```bash
-python xxx.py
+python OC_Projet_2_Scrap_fichiers_images.py
 ```
 
 ## Commandes utiles
